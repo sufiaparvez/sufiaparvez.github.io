@@ -1,0 +1,10 @@
+4.
+commands:
+cat /proc/version
+sudo httpd -v
+service httpd status
+​
+mysql --version
+service mysqld status
+​
+php --version
